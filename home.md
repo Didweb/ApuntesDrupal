@@ -3,5 +3,5 @@ Apuntes sobre drupal
 
 # Menú
 
-- [Instalación](./instalacion/intalacion.md)
+- [Instalación](instalacion/instalacion.md)
  - Problemas postInstalación.

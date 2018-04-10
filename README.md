@@ -1,2 +1,0 @@
-# ApuntesDrupal
-Apuntes sobre drupal
